@@ -1,0 +1,4 @@
+name: AutoClip
+version: '1.0-SNAPSHOT'
+main: org.autoclip.autoClip.AutoClip
+api-version: '1.21'
